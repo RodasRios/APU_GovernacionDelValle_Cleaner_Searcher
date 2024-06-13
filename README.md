@@ -26,7 +26,7 @@ The project focuses on extracting, organizing, and converting the APU data from 
 
 ## Acknowledgments
 
-I want to thank Siu H. Huang W. for their invaluable help in creating this code.
+I want to thank Siu H. for her invaluable help in creating this code.
 
 
 
